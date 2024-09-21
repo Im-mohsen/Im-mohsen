@@ -9,7 +9,7 @@
 
 - 🎯 &nbsp; Coding And watching movie are my hobby :))
 
-- 💾 &nbsp; All of my projects are available at <a href="">Github</a>
+- 💾 &nbsp; All of my projects are available at <a href="https://github.com/Im-mohsen?tab=repositories">Github</a>
 
 - 🌐 &nbsp; My personal <a href="">website</a>
 
@@ -27,7 +27,7 @@
  
 ## Connect with me 📞
 <p>
-  <a href="">
+  <a href="https://www.linkedin.com/in/Im-mohsen">
     <img width=30px src="https://github.com/Im-mohsen/Im-mohsen/blob/1f482de2f19ed41d0c611fa438bd6c4c64edf9d5/61208_linkedin_500x500.png" />
   </a>
   <a href="https://github.com/Im-mohsen">
